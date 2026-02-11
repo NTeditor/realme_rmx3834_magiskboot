@@ -1,7 +1,7 @@
 O := new-boot.img
 STOCK_BOOT := RMX3834export_13_A.11-boot.img
 IMAGE := ../out/android12-5.4/dist/Image
-MAGISKBOOT := tools/magiskboot
+MAGISKBOOT := tools/magiskboot_x86
 SLOT := a
 
 all: $(O)
