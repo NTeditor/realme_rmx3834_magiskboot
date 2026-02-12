@@ -1,4 +1,3 @@
 /*.img
 /Image
-/kernel
-/ramdisk.cpio
+*.pem
